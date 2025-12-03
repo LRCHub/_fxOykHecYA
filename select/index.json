@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "くやしいけど大事な人",
+  "base_artist": "Ayame Goriki",
+  "createdAt": "2025-12-03T19:16:27.829062Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "くやしいけど大事な人 - Kuyashiikedodaijinahito",
+      "artist": "Ayame Goriki",
+      "has_synced": true,
+      "path": "select/01_くやしいけど大事な人_-_Kuyashiikedodaijinahito_Ayame_Goriki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "くやしいけど大事な人",
+      "artist": "剛力 彩芽",
+      "has_synced": false,
+      "path": "select/pl_01_くやしいけど大事な人_剛力_彩芽.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "くやしいけど大事な人",
+      "artist": "剛力 彩芽",
+      "has_synced": false,
+      "path": "select/pl_02_くやしいけど大事な人_剛力_彩芽.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "くやしいけど大事な人",
+      "artist": "剛力 彩芽",
+      "has_synced": false,
+      "path": "select/pl_03_くやしいけど大事な人_剛力_彩芽.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "くやしいけど大事な人",
+      "artist": "剛力 彩芽",
+      "has_synced": false,
+      "path": "select/pl_04_くやしいけど大事な人_剛力_彩芽.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "くやしいけど大事な人",
+      "artist": "剛力 彩芽",
+      "has_synced": false,
+      "path": "select/pl_05_くやしいけど大事な人_剛力_彩芽.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "くやしいけど大事な人",
+      "artist": "剛力 彩芽",
+      "has_synced": false,
+      "path": "select/pl_06_くやしいけど大事な人_剛力_彩芽.txt"
+    }
+  ]
+}
